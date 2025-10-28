@@ -51,5 +51,5 @@ See the [LICENSE](./LICENSE) file for details.
 
 ### 👨‍💻 Author
 
-Created by me
+Created by me  
 If you find this script useful, consider ⭐ starring the repository!
